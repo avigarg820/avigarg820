@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avi Garg</h1>
-<h3 align="center">A 3rd YR ECE UG Programmer & Thinker , Like to work in teams.</h3>
+<h3 align="center">A 4th YR ECE UG Programmer & Thinker , Like to work in teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
-- 🔭 I’m currently working on **Digital Countdown Clock**
+- 🔭 I’m currently working on **Some Projects**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms & Python**
 
