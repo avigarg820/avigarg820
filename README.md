@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
-- 🔭 I’m currently working on **Some Projects**
+- 🔭 I’m currently working on **Python Projects & Backend Development**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms & Python**
+- 🌱 I’m currently learning **Data Structures & Algorithm & Open Source**
 
-- 🤝 I’m looking for help with **Projects ideas & Hackathons**
+- 🤝 I’m looking for help with **Projects ideas & Team Building For Hackathons**
 
-- 📫 How to reach me **I'm active on Linkedin and Discord;DM me if you'd like to connect.**
+- 📫 How to reach me **I'm active on Linkedin and Gmail;DM me if you'd like to connect.**
 
-- ⚡Fun fact **One Adjective to describe me would be: Welcoming**
+- ⚡Fun fact **One Adjective to describe me would be: Welcoming & I Perform Up to my Potential while working in Teams **
 
 - ✉️ EMAIL ID: avigarg714@gmail.com
 
