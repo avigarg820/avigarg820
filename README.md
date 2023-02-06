@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Avi Garg</h1>
-<h3 align="center">A 4th YR ECE UG Programmer & Thinker , Like to work in teams.</h3>
+<h3 align="center">A FINAL YEAR UG Programmer & ai ENTHUSIAST , Like to work in teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
-- 🔭 I’m currently working on **Python Projects & Backend Development**
+- 🔭 I’m currently working on **Python Projects & API DEVELOPEMENT**
 
 - 🌱 I’m currently learning **Data Structures & Algorithm & Open Source**
 
-- 🤝 I’m looking for help with **Projects ideas & Team Building For Hackathons**
+- 🤝 I’m looking for help with **Projects & Team Mates For Hackathons**
 
-- 📫 How to reach me **I'm active on Linkedin and Gmail;DM me if you'd like to connect.**
+- 📫 How to reach me **I'm mostly active on Linkedin and Gmail;DM me if you'd like to connect.**
 
 - ⚡Fun fact **One Adjective to describe me would be: Welcoming & I Perform Up to my Potential while working in Teams **
 
