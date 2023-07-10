@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
-- 🔭 I’m currently working on **Python Projects & API DEVELOPEMENT**
+- 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **API DEVELOPMENT IN BACKEND**
+- 🌱 I’m currently learning **Frontend Technologies like Angular**
 
-- 🤝 I’m looking for help with **Projects & A lot of Practice**
+- 🤝 I’m looking to collaborate with **Projects in Webdev & Prompt Engineering**
 
-- 📫 How to reach me **I'm mostly active on Linkedin and Gmail;DM me if you'd like to connect.**
+- 📫 How to reach me **I'm mostly active on Linkedin and Gmail; DM me if you'd like to connect.**
 
-- ⚡Fun fact **One Adjective to describe me would be: Welcoming & I Perform Up to my Potential while working in Teams **
+- ⚡Fun fact **Your connects help you out a lot in real world!, Value Them **
 
 - ✉️ EMAIL ID: avigarg714@gmail.com
 
