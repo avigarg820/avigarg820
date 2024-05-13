@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **I'm mostly active on Linkedin and Twitter; DM me if you'd like to connect.**
 
-- ⚡Fun fact ** Sorry The lift to success is Out Of Order, You have to reach Step by Step **
 
 - ✉️ EMAIL ID: avigarg714@gmail.com
 
