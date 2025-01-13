@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **WordPress Projects for local Businesses**
 
-- 🌱 I’m currently learning **Javascript, Implementing JS, WordPress**
+- 🌱 I’m currently learning **java, Implementing WordPress**
 
-- 🤝 I’m looking to collaborate with **Projects in Web dev**
+- 🤝 I’m looking to collaborate with **Projects in java development and Wordpress **
 
 - 📫 How to reach me **I'm mostly active on Linkedin and Twitter; DM me if you'd like to connect.**
 
