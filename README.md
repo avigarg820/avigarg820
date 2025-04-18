@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA, SPRING CORE, AI TOOLS LIKE LOVABLE, BOLT**
 
-- 🤝 I’m looking to collaborate with **Anyone who wants to participate in a hackathon, or is interested in discussing anything related to Java & Backend **
+- 🤝 I’m looking to collaborate with  **Anyone who wants to participate in a hackathon, or is interested in discussing anything related to Java & Backend.**
 
 - 📫 How to reach me **I'm mostly active on LinkedIn and Email; DM me if you'd like to connect/ collaborate/ ask queries.**
 
