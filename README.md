@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avi Garg</h1>
-<h3 align="center">I am a Web Designer with experience in making informative and e-commerce stores in Wordpress. I am a Java and backend Enthusiast. I love how backend processes complete your experience, regardless of any kind of Frontend. I also use ai tools like **Lovable & Bolt ** for full-stack development .</h3>
+<h3 align="center">I am a Web Designer with experience in making informative and e-commerce stores in Wordpress. I am a Java and backend Enthusiast. I love how backend processes complete your experience, regardless of any kind of Frontend.
+ I also use ai tools like Lovable & Bolt for full-stack development .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
