@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Avi Garg</h1>
-<h3 align="center">I am a Web developer with experience in designing interactive Landing Pages, WordPress NodeJS .</h3>
+<h3 align="center">I am a Web Designer with experience in making informative and e-commerce stores in Wordpress. I am a Java and backend Enthusiast. I love how backend processes complete your experience, regardless of any kind of Frontend. I also use ai tools like **Lovable & Bolt ** for full-stack development .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigarg820&label=Profile%20views&color=0e75b6&style=flat" alt="avigarg820" /> </p>
 
-- 🔭 I’m currently working on **WordPress Projects for local Businesses**
+- 🔭 I’m currently working on **WordPress & Shopify Projects & Making Java Projects & use AI tools to test full stack apps in my free time**
 
-- 🌱 I’m currently learning **java, Implementing WordPress**
+- 🌱 I’m currently learning **JAVA, SPRING CORE, AI TOOLS LIKE LOVABLE, BOLT**
 
-- 🤝 I’m looking to collaborate with **Projects in java development and Wordpress **
+- 🤝 I’m looking to collaborate with **Anyone who wants to participate in a hackathon, or is interested in discussing anything related to Java & Backend **
 
-- 📫 How to reach me **I'm mostly active on Linkedin and Twitter; DM me if you'd like to connect.**
+- 📫 How to reach me **I'm mostly active on LinkedIn and Email; DM me if you'd like to connect/ collaborate/ ask queries.**
 
 
 - ✉️ EMAIL ID: avigarg714@gmail.com
