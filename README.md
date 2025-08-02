@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avigarg820&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avigarg820&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=avigarg820&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
@@ -21,4 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=avigarg820&icon=0&color=11)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/avigarg) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
